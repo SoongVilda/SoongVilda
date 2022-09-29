@@ -4,7 +4,7 @@ I hope you will enjoy my GitHub and find something valuable to you.
 ## Computers
 I have a wide range of general knowledge about computers.
 
-- Linux
+- Linux - shell
 - Linux and NVIDIA
 - Video 
 - Networking
