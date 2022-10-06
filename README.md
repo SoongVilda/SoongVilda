@@ -1,4 +1,4 @@
-# Wecldome on my GitHub
+# Welcome on my GitHub
 I hope you will enjoy my GitHub and find something valuable to you.
 
 ## Computers
