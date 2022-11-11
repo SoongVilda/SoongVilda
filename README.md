@@ -24,7 +24,7 @@ I'm also familiar with the following distributions
 - Ubuntu/Debian-based - I used PopOS, Ubuntu, Kubuntu.
 
 ### Security
-I know that's boring, but it an important.
+I know that's boring, but it's important.
 - Password manager, encryption is my friend.
 
 ### TL;DR
