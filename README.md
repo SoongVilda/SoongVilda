@@ -23,16 +23,16 @@ Here is a list of my work or project in which I participated. It also sorts of t
 - [ZRAM](https://github.com/SoongVilda/zram-config) - 8GB RAM is a pain. My lovely Warframe crashes on open maps, so I compressed RAM.
 - [Native compiling Arch Linux packages](https://github.com/SoongVilda/archilinux_native_compiling) - Script helps me build a lot of packages native for my hardware - CPU.
 
-## Only Arch Linux?
+## :grey_question: Only Arch Linux?
 I'm also familiar with the following distributions
 - Fedora, CentOS (RHEL-based).
 - Ubuntu/Debian-based - I used PopOS, Ubuntu, Kubuntu.
 
-### Security
+### :shield: Security
 I know that's boring, but it's important
 - Password manager, encryption is my friend
 
-### TL;DR
+### :fast_forward: TL;DR
 - Docs writer
 - Shell scripter
 - Community tech support
@@ -40,10 +40,10 @@ I know that's boring, but it's important
 - Packager for Arch-based distribution
 
 
-## I contributed to the following projects.
+### I contributed to the following projects.
 - [CachyOS](https://github.com/CachyOS) 
 
-## I'm interested in the following projects
+### I'm interested in the following projects
 - [Bottles](https://github.com/bottlesdevs/Bottles)
 - [Arch Linux](https://archlinux.org/)
 - [Jami](https://jami.net/)
