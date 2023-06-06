@@ -33,7 +33,7 @@ I know that's boring, but it's important
 - Password manager, encryption is my friend
 
 ### :fast_forward: TL;DR
-- Docs writer
+- Docs & Wiki writer
 - Shell scripter
 - Community tech support
 - Virtualization KVM, VirtualBox
@@ -41,9 +41,11 @@ I know that's boring, but it's important
 
 
 ### I contributed to the following projects.
-- [CachyOS](https://github.com/CachyOS) 
+- [CachyOS](https://github.com/CachyOS) - I mostly intersted in the CachyOS, it's currently my main project.
 
 ### I'm interested in the following projects
 - [Bottles](https://github.com/bottlesdevs/Bottles)
+- [Sunshine](https://github.com/LizardByte/Sunshine)
+- [Moonlight](https://github.com/moonlight-stream)
 - [Arch Linux](https://archlinux.org/)
 - [Jami](https://jami.net/)
