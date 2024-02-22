@@ -4,10 +4,10 @@
 </div>
 
 ### :man_health_worker: My personality
-I like open-source, linux, and technical topics in general. I also enjoy helping people in the open-source community. Don't worry about contacting me if you need anything. I'm friendly, positive, and open to meeting new people.
+I have a passion for open-source, Linux, and technical subjects. Additionally, I find joy in assisting others within the open-source community. Please feel free to contact me if you need assistance; I am approachable, optimistic, and always eager to connect with new individuals.
 
 ### :penguin: GNU/Linux
-I'm a power user of GNU/Linux. Arch Wiki taught me a lot, and I continue learning new stuff. Sometimes I visit Gentoo wiki - when Arch Wiki doesn't give me an answer. <br>
+As a proficient GNU/Linux user, I've gained considerable knowledge from the Arch Wiki and continually learn new things. When the Arch Wiki falls short, I turn to the Gentoo Wiki for additional insights. <br>
 
 
 ## :hammer_and_wrench: My work
